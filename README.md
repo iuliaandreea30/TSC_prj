@@ -1,7 +1,7 @@
 ## TSC Project - E-book-Reader
 
 ## Diagram
-![image](https://github.com/user-attachments/assets/fa522e8e-549b-4be4-9a1b-7f61022e6712)
+![image](https://github.com/iuliaandreea30/TSC_prj/blob/main/Images/Diagrama.png)
 
 ## BOM (Bill Of Materials)
 
